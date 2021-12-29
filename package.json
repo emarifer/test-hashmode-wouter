@@ -1,0 +1,31 @@
+{
+  "name": "test-hashmode-wouter",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "wouter": "^2.8.0-alpha.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.5",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "@vitejs/plugin-react": "^1.0.7",
+    "eslint": "^7.32.0",
+    "eslint-config-xo": "^0.39.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  }
+}
